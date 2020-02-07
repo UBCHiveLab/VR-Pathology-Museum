@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2643857433
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 507d76ecb467acc7dcdf693301f2802a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 976b10861aeb610e9d54abadf7f35a8a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+Assets:
+- Assets/Materials/Organ Materials/HeartDiseased.mat
+- Assets/Materials/Organ Materials/Textures/DiseasedHeartTexture.jpg
+- Assets/Prefabs/Organs/Heart_Diseased.prefab
+- Assets/3DModel/FBX_HeartDiseased.fbx
+Dependencies:
+- C:/Users/kburk/OneDrive/Documents/UBC Hive/AnatomiVR_Models/AnantomiVR_Models/Assets/AssetBundles/heart

@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1367860025
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 065e66fc94bc03759af4101503354833
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b33d45a2d1d859728dca57ea361a43c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Organs/Skull_Healthy.prefab
+- Assets/3DModel/FBX_Skull.obj
+- Assets/Materials/Organ Materials/Textures/skull_final_u1_v1.png
+- Assets/Materials/Organ Materials/Skull.mat
+- Assets/Materials/Skull.mat
+Dependencies: []

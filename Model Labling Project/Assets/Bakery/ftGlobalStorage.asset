@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dccdaa63f3d48cd4296c50aecd8cc1d0, type: 3}
+  m_Name: ftGlobalStorage
+  m_EditorClassIdentifier: 
+  modifiedAssetPathList: []
+  modifiedAssetPaddingHash: 
+  modifiedMeshList: []
+  modifiedMeshPaddingList: 
+  modifiedAssets: []
+  assetList:
+  - Assets/3DModel/Rooms/Zehra_room.fbx
+  - Assets/VRTK/Examples/ExampleResources/SharedResources/Models/arrow.fbx
+  - Assets/VRTK/LegacyExampleFiles/ExampleResources/Models/lightring.obj
+  - Assets/VRTK/Examples/ExampleResources/SharedResources/Models/quad.obj
+  - Assets/VRTK/LegacyExampleFiles/ExampleResources/Models/hexprism.obj
+  - Assets/VRTK/Examples/ExampleResources/SharedResources/Prefabs/AnimatedBezierPointer/Models/BezierPointerInvalidCursor.fbx
+  - Assets/VRTK/Examples/ExampleResources/SharedResources/Prefabs/AnimatedBezierPointer/Models/BezierPointerBeam.obj
+  - Assets/VRTK/Examples/ExampleResources/SharedResources/Models/ring.obj
+  - Assets/VRTK/LegacyExampleFiles/ExampleResources/Models/teleportbeam.obj
+  - Assets/VRTK/Prefabs/AvatarHands/BasicHands/Models/VRTK_BasicHand.fbx
+  - Assets/VRTK/LegacyExampleFiles/ExampleResources/Models/WonderRocks.fbx
+  - Assets/VRTK/LegacyExampleFiles/ExampleResources/Models/lightseg.obj
+  - Assets/VRTK/Examples/ExampleResources/SharedResources/Models/rock.fbx
+  - Assets/3DModel/FBX_Heart2.fbx
+  - Assets/NewtonVR/Example/Meshs/FlowerGun.fbx
+  - Assets/Oculus/Spatializer/Scenes/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Constructor.FBX
+  - Assets/NewtonVR/Meshs/NVREditorPlayer.obj
+  - Assets/NewtonVR/Example/Meshs/NewtonAppleTree.fbx
+  - Assets/3DModel/Rooms/Environment.fbx
+  - Assets/3DModel/FBX_HeartDiseased.fbx
+  - Assets/Oculus/VR/Meshes/GearVrController/GearVrController.fbx
+  - Assets/Oculus/LipSync/Models/Lips/Source/Lips.FBX
+  - Assets/NewtonVR/Resources/TouchControllers/oculusTouchLeftModel.obj
+  - Assets/NewtonVR/Resources/TouchControllers/oculusTouchRightModel.obj
+  - Assets/NewtonVR/Example/Meshs/FlowerBullet.FBX
+  - Assets/Oculus/VR/Meshes/Cone.obj
+  - Assets/NewtonVR/Example/Meshs/NewtonTreeLeaves.fbx
+  - Assets/Oculus/VR/Meshes/OculusGoController/OculusGoController.fbx
+  - Assets/3DModel/LightCone.fbx
+  - Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/RobotHead_TextureFlip.FBX
+  - Assets/TM's Living Room Interior/TM's_Living_room_interior.fbx
+  - Assets/Organ_Room/Brain/brain.fbx
+  - Assets/Organ_Room/UV_EDROOM.fbx
+  - Assets/3DModel/NewRoom/Organ_Room/UV_EDROOM.fbx
+  - Assets/plants/p1/pfl1.fbx
+  - Assets/plants/dd/dutchdragon3.fbx
+  - Assets/plants/dd/PlantForPOT.fbx
+  - Assets/3DModel/NewRoom/Organ_Room/Brain/brain.fbx
+  - Assets/3DModel/NewRoom/brain.fbx
+  - Assets/3DModel/FBX_Brain.fbx
+  - Assets/3DModel/skull_final.obj
+  - Assets/3DModel/FBX_Skull.obj
+  - Assets/3DModel/Right_lung_500K.obj
+  - Assets/3DModel/FBX_RightLung.obj
+  - Assets/3DModel/Liver_Laser_and_photogrammetry.obj
+  - Assets/3DModel/FBX_Liver.obj
+  - Assets/3DModel/kidney_suspended_jul25test.OBJ
+  - Assets/3DModel/FBX_Kidney.OBJ
+  uvOverlapAssetList: 01010000ffffffff00000000010100000000000001010000000000000000000000000000000000000000000001010000ffffffff0101000001010000010100000101000001010000010100000101000001010000000000000101000001010000010100000101000001010000000000000000000001010000010100000000000001010000010100000101000001010000010100000000000000000000000000000000000000000000000000000000000001010000010100000000000000000000

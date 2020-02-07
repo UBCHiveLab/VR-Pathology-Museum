@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2634547939
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83cbfdc3f54644c2a6005271dbf5f167
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b33d45a2d1d859728dca57ea361a43c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/Materials/Organ Materials/Textures/kidney_suspended_jul25test.jpg
+- Assets/Prefabs/Organs/Kidney_Healthy.prefab
+- Assets/Materials/Organ Materials/Kidney.mat
+- Assets/3DModel/FBX_Kidney.OBJ
+Dependencies: []
