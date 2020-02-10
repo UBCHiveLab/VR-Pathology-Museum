@@ -8,5 +8,5 @@ public class EnvironVariables : Singleton<EnvironVariables>
     protected EnvironVariables() { }
 
     // Then add whatever code to the class you need as you normally would.
-    public string address = "http://127.0.0.1:10070/assets/";
+    public string address = "https://hivemodelstorage.blob.core.windows.net/win64assetbundle/";
 }
