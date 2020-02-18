@@ -12,6 +12,6 @@ EditorBuildSettings:
     path: Assets/Scenes/FinalRoom.unity
     guid: c36f6664224a3e04daeac867782a044a
   - enabled: 1
-    path: Assets/_Scenes/NewFinalRoom.unity
+    path: Assets/_TerrainAutoUpgrade/NewFinalRoom.unity
     guid: 5fdfca9735b6d134485b3e6929c89afe
   m_configObjects: {}

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1065272970
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: brain
+      Dependencies: {}
+    Info_1:
+      Name: skull
+      Dependencies: {}
+    Info_2:
+      Name: heart_diseased
+      Dependencies:
+        Dependency_0: heart
+    Info_3:
+      Name: right_lung
+      Dependencies: {}
+    Info_4:
+      Name: heart
+      Dependencies: {}
+    Info_5:
+      Name: liver
+      Dependencies: {}
+    Info_6:
+      Name: kidney
+      Dependencies: {}
