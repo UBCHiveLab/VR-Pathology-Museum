@@ -7,17 +7,22 @@ public class Label : MonoBehaviour
     public TMPro.TextMeshPro label;
     public Transform point;
     public Material mat;
-    private LineRenderer lineRenderer;
+    public LineRenderer lineRenderer;
+    public MeshRenderer pointMesh;
 
     private void Start()
     {
+        
         Create();
-        point.gameObject.GetComponent<MeshRenderer>().enabled = false;
+        //point.gameObject.GetComponent<MeshRenderer>().enabled = false;
+        pointMesh.enabled = false;
+
     }
 
     private void Create()
     {
-        lineRenderer = label.gameObject.AddComponent<LineRenderer>();
+        
+        //lineRenderer = GetComponent<LineRenderer>();
         lineRenderer.positionCount = 2;
         lineRenderer.useWorldSpace = true;
         lineRenderer.material = mat;

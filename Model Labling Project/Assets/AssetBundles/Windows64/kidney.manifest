@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3615515073
+CRC: 590987410
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 659d072aef393ee3061f49f5c55a01b8
+    Hash: dba4e7a9cb846491cb1e2bcf2322644e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: bb0ff431f16041c0d69947f772cfe2c7
+    Hash: c1b9f31292ead401bde7f41a9ea45b5c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -35,7 +35,11 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3789871ffe2dabf49b9dcd79b5199f34, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 866ab638b62779e44bb8b81a504e29d4, type: 3}
 - Class: 115
+  Script: {instanceID: 0}
+- Class: 120
   Script: {instanceID: 0}
 - Class: 128
   Script: {instanceID: 0}
@@ -48,8 +52,8 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
-- Assets/Prefabs/Organs_Labeled/Kidney_Healthy.prefab
 - Assets/Materials/Organ Materials/Textures/kidney_suspended_jul25test.jpg
 - Assets/Materials/Organ Materials/Kidney.mat
 - Assets/3DModel/FBX_Kidney.OBJ
+- Assets/Prefabs/Organs_Labeled/Kidney_Healthy.prefab
 Dependencies: []

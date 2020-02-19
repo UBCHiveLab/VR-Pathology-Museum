@@ -37,7 +37,7 @@ public class ModelLabeller : ScriptableWizard
                 newLabel.gameObject.name = "Label " + labelNames[i];
                 newLabel.transform.SetParent(selectedOrgan.transform);
                 newLabel.transform.position = randomPos;
-
+                newLabel.GetComponent<Label>().lineRenderer = newLabel.gameObject.AddComponent<LineRenderer>();
                 Label label = newLabel.GetComponent<Label>();
                 labels.Add(label);
                 label.label = newLabel.GetComponent<TMPro.TextMeshPro>();
@@ -59,6 +59,7 @@ public class ModelLabeller : ScriptableWizard
                         sphere.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
                         sphere.gameObject.name = "Point " + labels[i].name;
                         labels[i].point = sphere.transform;
+                        labels[i].pointMesh = sphere.GetComponent<MeshRenderer>();
                     }
                 }
                 break;

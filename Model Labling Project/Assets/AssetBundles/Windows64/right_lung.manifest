@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2803947593
+CRC: 3673184929
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 21478b27ddc86e0d68a427406be16861
+    Hash: d25067e985c7f61d8299f3a423f01658
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e8b2cc1670b075adec95a9a89324e9a0
+    Hash: d64ef55476e57d4c5d01f6d673fa8e25
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -39,6 +39,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 3789871ffe2dabf49b9dcd79b5199f34, type: 3}
 - Class: 115
   Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
 - Class: 128
   Script: {instanceID: 0}
 - Class: 135
@@ -50,6 +52,6 @@ ClassTypes:
 Assets:
 - Assets/3DModel/FBX_RightLung.obj
 - Assets/Materials/Organ Materials/Textures/Right Lung.jpeg
-- Assets/Materials/Organ Materials/Right Lung.mat
 - Assets/Prefabs/Organs_Labeled/RightLung_Healthy.prefab
+- Assets/Materials/Organ Materials/Right Lung.mat
 Dependencies: []

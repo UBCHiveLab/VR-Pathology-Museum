@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3775295926
+CRC: 2531358317
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bc1d888b21af14d700200cc5ba38d9fc
+    Hash: 443a631b0790946583cb2a766f8a140f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: bb0ff431f16041c0d69947f772cfe2c7
+    Hash: b9e9c259f4db3b4fd0f4fded3bd578ad
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,6 +25,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
 - Class: 54
   Script: {instanceID: 0}
 - Class: 114
@@ -37,6 +39,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 3789871ffe2dabf49b9dcd79b5199f34, type: 3}
 - Class: 115
   Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
 - Class: 128
   Script: {instanceID: 0}
 - Class: 135
@@ -48,8 +52,16 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
+- Assets/AssetBundles/Windows64/Windows64.manifest
+- Assets/AssetBundles/Windows64/heart_diseased.manifest
 - Assets/3DModel/FBX_Brain.fbx
+- Assets/AssetBundles/Windows64/heart.manifest
 - Assets/Prefabs/Organs_Labeled/Brain_Healthy.prefab
+- Assets/AssetBundles/Windows64/right_lung.manifest
 - Assets/Materials/Organ Materials/Brain.mat
+- Assets/AssetBundles/Windows64/brain.manifest
+- Assets/AssetBundles/Windows64/kidney.manifest
 - Assets/Materials/Organ Materials/Textures/brain_lowpoly.jpg
+- Assets/AssetBundles/Windows64/skull.manifest
+- Assets/AssetBundles/Windows64/liver.manifest
 Dependencies: []
