@@ -36,7 +36,7 @@ public class Label : MonoBehaviour
 
     void Update()
     {
-        label.transform.rotation = Quaternion.identity;
+        //label.transform.rotation = Quaternion.identity;
         lineRenderer.SetPosition(0, label.transform.position);
         lineRenderer.SetPosition(1, point.position); // TODO: origin on Organ
     }
